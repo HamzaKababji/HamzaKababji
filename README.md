@@ -1,7 +1,8 @@
-<h1 style="display: flex; justify-content: space-between; align-items: center;">
+<h1>
   Hi there 👋 I am Hamza Elkababji
-  <img src="https://hamzakababji.com/main-pic.png" alt="Hamza's profile picture" style="border-radius: 50%; width: 100px; height: 100px; margin-left: 20px;">
 </h1>
+
+<img src="https://hamzakababji.com/main-pic.png" alt="Hamza's profile picture" align="right" style="border-radius: 50%; width: 100px; height: 100px; margin-left: 20px;">
 
 `I am an aspiring Software Engineer`
 
@@ -61,4 +62,13 @@
 
 <br>
 
-Copyright © 2024 Hamza Elkababji, All Right Reserved
+<footer>
+
+##
+
+
+<p align="center">
+Copyright © 2024 Hamza Elkababji, All Rights Reserved
+
+</p>
+</footer>
