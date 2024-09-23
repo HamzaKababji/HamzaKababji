@@ -30,7 +30,7 @@
   <a href="#"><img alt="mysql" src="https://img.shields.io/badge/MySQL-6A89A7?style=for-the-badge&logo=mysql&logoColor=orange"/></a>
   <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=FAF9F6"/></a>
 
-<br>
+<br></br>
 
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="#"><img alt="WSL" src="https://img.shields.io/badge/WSL-5D0639?style=for-the-badge&logo=linuxcontainers&logoColor=81D5FA"></a>
