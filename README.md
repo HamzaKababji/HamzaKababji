@@ -30,7 +30,7 @@
   <a href="#"><img alt="mysql" src="https://img.shields.io/badge/MySQL-6A89A7?style=for-the-badge&logo=mysql&logoColor=orange"/></a>
   <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=FAF9F6"/></a>
 
-<br></br>
+<br>
 
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="#"><img alt="WSL" src="https://img.shields.io/badge/WSL-5D0639?style=for-the-badge&logo=linuxcontainers&logoColor=81D5FA"></a>
@@ -42,7 +42,28 @@
 
 <br>
 
-## 😎 Connect with me <a href="https://linkedin.com/in/HamzaKababji" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="iscpatricio92" height="30" width="40" /></a><a href="mailTo:hamza.kababji@gmail.com" target="blank"> <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="HamzaKababji" height="30" width="40" /></a><a href="https://github.com/HamzaKababji" target="blank"> <img align="center" alt="https://github.com/iscpatricio92" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
+## 👨‍💻 Projects I am Proud of
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/HamzaKababji/Media-Converter-And-Organizer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaKababji&repo=Media-Converter-And-Organizer&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/HamzaKababji/Cast-Away-Game">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaKababji&repo=Cast-Away-Game&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br></br>
+
+## 😎 Connect With Me: <a href="https://linkedin.com/in/HamzaKababji" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="iscpatricio92" height="30" width="40" /></a><a href="mailTo:hamza.kababji@gmail.com" target="blank"> <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="HamzaKababji" height="30" width="40" /></a><a href="https://github.com/HamzaKababji" target="blank"> <img align="center" alt="https://github.com/iscpatricio92" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
+
+</br>
 
 <footer>
 <p align="center">
