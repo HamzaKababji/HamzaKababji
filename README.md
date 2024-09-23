@@ -2,7 +2,7 @@
   Hi there 👋 I am Hamza Elkababji
 </h1>
 
-<img src="https://hamzakababji.com/main-pic.png" alt="Hamza's profile picture" align="right" style="border-radius: 50%; width: 100px; height: 100px; margin-left: 20px;">
+<img src="https://hamzakababji.com/assets/main-pic.png" alt="Hamza's profile picture" align="right" style="border-radius: 50%; width: 100px; height: 100px; margin-left: 20px;">
 
 `I am an aspiring Software Engineer`
 
