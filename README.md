@@ -58,6 +58,12 @@
 
 <br></br>
 
+## 🐍 Snake Game With my Commits
+
+<img src="https://raw.githubusercontent.com/HamzaKababji/HamzaKababji/output/snake.svg" alt="Snake animation" />
+
+<br></br>
+
 ## 😎 Connect With Me: <a href="https://linkedin.com/in/HamzaKababji" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="iscpatricio92" height="30" width="40" /></a><a href="mailTo:hamza.kababji@gmail.com" target="blank"> <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="HamzaKababji" height="30" width="40" /></a><a href="https://github.com/HamzaKababji" target="blank"> <img align="center" alt="https://github.com/iscpatricio92" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
 
 </br>
